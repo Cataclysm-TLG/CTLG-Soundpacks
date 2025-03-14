@@ -3,7 +3,7 @@ A continuation of the `CO.AG soundpack` initiated by **SkyBreach**.
 This version aims to provide a quality soundpack using CC0 or CC-BY ressources with proper attribution.
 
 ## Download
-Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA-Soundpacks/releases)
+Get the latest release from there: [[release]](https://github.com/Cataclysm-TLG/CTLG-Soundpacks/releases)
 
 ## Installation
 - Get a sound pack from the **Download** link above
@@ -27,5 +27,5 @@ SFX are sourced from [freesound.org](https://freesound.org/)
 You can find proper attribution for every file in the `credits.md` in each sound folder.
 
 ## Contributing
-Contributions are welcome, see the [documentation](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/SOUNDPACKS.md)
+Contributions are welcome, see the [documentation](https://github.com/Cataclysm-TLG/Cataclysm-TLG/blob/master/doc/SOUNDPACKS.md)
 for more information on how soundpacks work.
